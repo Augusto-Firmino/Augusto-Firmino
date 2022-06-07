@@ -1,6 +1,6 @@
 ### Hola! Soy Augusto Firmino
 
-### Estoy estudiando programacion.
+### Estudiante de Programacion.
 
 <div align="center">
   <a href="https://github.com/Augusto-Firmino">
